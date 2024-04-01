@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 
-- 🌱 I’m currently studying IT Student- (software engineering) - Currently studying-6th semester.
+- 🌱 I’m a software engineer.
 
 
 
